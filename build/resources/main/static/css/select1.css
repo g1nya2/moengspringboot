@@ -1,0 +1,60 @@
+.e15_134 {
+	/* background-color:red; */
+	background-color:rgba(255, 255, 255, 1);
+	width:1440px;
+	height:1024px;
+	position:absolute;
+}
+.e15_135 {
+	width:247px;
+	height:113px;
+	position:absolute;
+	left:596px;
+	top:58px;
+	background-image:url("moeng.png");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e15_136 {
+	width:76px;
+	height:42px;
+	position:absolute;
+	left:666px;
+	top:108px;
+	background-image:url("moeng_ko.png");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e15_137 {
+	font-family: Margarine;
+	font-size: 1.3em;
+	background-color:rgba(191.04614853858948, 213.68221789598465, 249.4617059826851, 0.5);
+	width:150px;
+	height:45px;
+	position:absolute;
+	left:1225px;
+	top:85px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
+.e15_141 {
+	/* background-color:red; */
+	background-color:rgba(245.00000059604645, 245.00000059604645, 245.00000059604645, 1);
+	width:659px;
+	height:756px;
+	position:absolute;
+	left:735px;
+	top:199px;
+	border-radius:15px;
+}
+.e15_142 {
+	background-color:rgba(245.00000059604645, 245.00000059604645, 245.00000059604645, 1);
+	width:659px;
+	height:756px;
+	position:absolute;
+	left:46px;
+	top:199px;
+	border-radius:15px;
+}

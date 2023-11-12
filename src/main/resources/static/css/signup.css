@@ -1,0 +1,130 @@
+* {border: 0;}
+.decorateUpDown {
+	/* font-family:Margarine; */
+	/* line-height: 2em; */
+}
+.decorateUp {
+	font-family:Margarine;
+	font-size: 1.4em;
+	line-height: 2.6em;
+}
+.decorateDown {
+	font-size: 1.1em;
+	line-height: 1.7em;
+	color: rgba(0, 0, 0, 0.6);
+}
+.decorate {
+	/* font-family: Times; */
+	font-size: 1.2em;
+	font-style: italic;
+	line-height: 2em;
+}
+.e46_28 {
+	/* TOP SECTION */
+	background-color:rgba(255, 255, 255, 0.5);
+	width:1440px;
+	height:1024px;
+	position:absolute;
+}
+.e46_29 {
+	/* LOGO */
+	width:247px;
+	height:113px;
+	position:absolute;
+	left:597px;
+	top:199px;
+	background-image:url("moeng.png");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e46_30 {
+	/* LOGO */
+	width:76px;
+	height:42px;
+	position:absolute;
+	left:667px;
+	top:249px;
+	background-image:url("moeng_ko.png");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e46_31 {
+	/* PURPOSE */
+	background-color:rgba(191.04614853858948, 213.68221789598465, 249.4617059826851, 0.5);
+	padding-top: 20px;
+	padding-bottom: 20px;
+	width:300px;
+	position:absolute;
+	left:398px;
+	top:340px;
+	border-top-left-radius:10px;
+	/* border-bottom-left-radius:10px; */
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.e46_32 {
+	/* GENDER */
+	background-color:rgba(191.04614853858948, 213.68221789598465, 249.4617059826851, 0.5);
+	padding-top: 20px;
+	padding-bottom: 20px;
+	width:300px;
+	position:absolute;
+	left:698px;
+	top:340px;
+	border-top-right-radius:10px;
+	/* border-bottom-right-radius:10px; */
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.e48_37 {
+	/* AGE */
+	background-color:rgba(191.04614853858948, 213.68221789598465, 249.4617059826851, 0.5);
+	width:600px;
+	height:74px;
+	position:absolute;
+	left:398px;
+	/* top:519px; */
+	top:498px;
+	/* border-top-left-radius:10px; */
+	/* border-top-right-radius:10px; */
+	border-bottom: 0;
+}
+.e48_38 {
+	/* ID */
+	background-color:rgba(191.04614853858948, 213.68221789598465, 249.4617059826851, 0.5);
+	width:600px;
+	height:74px;
+	position:absolute;
+	left:398px;
+	/* top:593px; */
+	top:572px;
+	border-radius:0;
+	border-top: 0;
+	border-bottom: 0;
+}
+.e48_41 {
+	/* PW */
+	background-color:rgba(191.04614853858948, 213.68221789598465, 249.4617059826851, 0.5);
+	width:600px;
+	height:74px;
+	position:absolute;
+	left:398px;
+	/* top:667px; */
+	top:646px;
+	border-top: 0;
+}
+.e46_33 {
+	/* Button Sign Up */
+	background-color:rgba(191.04614853858948, 213.68221789598465, 249.4617059826851, 0.3);
+	width:600px;
+	height:74px;
+	position:absolute;
+	left:398px;
+	/* top:741px; */
+	top:720px;
+	border-top: 0;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}

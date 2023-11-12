@@ -1,0 +1,119 @@
+ul {list-style: none;}
+#leftSectionDown button{
+	width: 100%;
+	font-family: Margarine;
+	font-size: 1.3em;
+}
+#leftSectionDown #category {
+	font-size: 1.4em;
+	line-height: 3em;
+}
+#leftSectionDown #topic {
+	line-height: 2em;
+}
+#rightSection ul {
+	list-style: none;
+}
+#rightSection li {
+	font-size: 1.3em;
+	line-height: 2em;
+}
+#rightSection span {
+	padding-right: 2%;
+}
+#rightSection input {
+	width: 100%;
+	font-family: Margarine;
+	font-size: 1.3em;
+}
+.e16_204 {
+	/* parentSection */
+	background-color:rgba(255, 255, 255, 1);
+	width:1440px;
+	height:1024px;
+	position:absolute;
+}
+.e16_205 {
+	/* logo */
+	width:247px;
+	height:113px;
+	position:absolute;
+	left:596px;
+	top:58px;
+	background-image:url("moeng.png");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e16_206 {
+	/* logo */
+	width:76px;
+	height:42px;
+	position:absolute;
+	left:666px;
+	top:108px;
+	background-image:url("moeng_ko.png");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e16_207 {
+	/* background-color:red; */
+	/* reselect button */
+	font-family: Margarine;
+	font-size: 1.3em;
+	background-color:rgba(191.04614853858948, 213.68221789598465, 249.4617059826851, 0.5);
+	width:150px;
+	height:45px;
+	position:absolute;
+	left:1225px;
+	top:85px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
+.e16_211 {
+	/* rightSection */
+	background-color:rgba(245.00000059604645, 245.00000059604645, 245.00000059604645, 1);
+	width:659px;
+	height:756px;
+	position:absolute;
+	left:735px;
+	top:199px;
+	border-radius:15px;
+}
+.e16_212 {
+	/* left section up */
+	/* background-color:red; */
+	background-color:rgba(245.00000059604645, 245.00000059604645, 245.00000059604645, 1);
+	width:659px;
+	height:110px;
+	position:absolute;
+	left:46px;
+	top:199px;
+	border-radius:15px;
+}
+.e16_220 {
+	/* left section down */
+	/* background-color:red; */
+	background-color:rgba(245.00000059604645, 245.00000059604645, 245.00000059604645, 1);
+	width:659px;
+	height:628px;
+	position:absolute;
+	left:45px;
+	top:327px;
+	border-radius:15px;
+}
+.e16_221 {
+	/* left section up dayLine */
+	/* background-color:red; */
+	color:rgba(0, 0, 0, 1);
+	width:250px;
+	height:80px;
+	position:absolute;
+	left:46px;
+	top:214px;
+	font-family:Margarine;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:0;
+}

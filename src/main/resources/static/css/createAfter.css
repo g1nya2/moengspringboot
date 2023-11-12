@@ -1,0 +1,74 @@
+body {background: #E5E5E5;}
+.e51_30 {
+	/* Top Section */
+	background-color:rgba(255, 255, 255, 1);
+	width:1440px;
+	height:1024px;
+	position:absolute;
+}
+.e51_31 {
+	/* Logo */
+	width:247px;
+	height:113px;
+	position:absolute;
+	left:596px;
+	top:58px;
+	background-image:url("moeng.png");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e51_32 {
+	/* Logo */
+	width:76px;
+	height:42px;
+	position:absolute;
+	left:666px;
+	top:108px;
+	background-image:url("moeng_ko.png");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e52_52 {
+	/* Up Section */
+	background-color:rgba(245.00000059604645, 245.00000059604645, 245.00000059604645, 1);
+	width:1133px;
+	height:160px;
+	position:absolute;
+	left:154px;
+	top:253px;
+}
+.e52_58 {
+	/* Down Section */
+	background-color:rgba(245.00000059604645, 245.00000059604645, 245.00000059604645, 1);
+	width:1133px;
+	height:474px;
+	position:absolute;
+	left:154px;
+	top:413px;
+}
+.e52_55 {
+	/* displayNumber */
+	color:rgba(0, 0, 0, 1);
+	width:128px;
+	height:30px;
+	position:absolute;
+	left:1158px;
+	top:318px;
+	font-family:Margarine;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:0;
+}
+.e52_56 {
+	/* displayTitle */
+	color:rgba(0, 0, 0, 1);
+	width:227px;
+	height:89px;
+	position:absolute;
+	left:181px;
+	top:318px;
+	font-family:Margarine;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:0;
+}

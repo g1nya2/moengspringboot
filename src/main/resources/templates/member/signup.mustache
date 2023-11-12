@@ -1,0 +1,33 @@
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>sign up</title>
+    <link href="https://fonts.googleapis.com/css?family=Margarine&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/css/signup.css">
+    <style>
+        body {background: #E5E5E5; }
+    </style>
+</head>
+<body>
+<form id="signupForm" class="e46_28" action="/moeng/createMember" method="post">
+    <div id="logo1" class="e46_29"></div>
+    <div id="logo2" class="e46_30"></div>
+    <div id="purpose" class="e46_31 teamFont">
+        <div class="decorate">Sign Up Purpose</div>
+        <label><input type="radio" name="purpose" value="0" required>To Join Moeng!</label>
+        <label><input type="radio" name="purpose" value="1" required>To Offer Space!</label>
+    </div>
+    <div id="gender" class="e46_32 teamFont">
+        <div class="decorate">Personal Information</div>
+        <label><input type="radio" name="gender" value="0" required>MALE</label>
+        <label><input type="radio" name="gender" value="1" required>FEMALE</label>
+    </div>
+    <input id="age" type="number" class="e48_37" placeholder="Enter Your Age" required>
+    <input id="id" type="text" class="e48_38" placeholder="Enter Your ID" required maxlength="10">
+    <input id="pw" type="password" class="e48_41" placeholder="Enter Your PW" required maxlength="10">
+    <!-- <button id="buttonSignup" type="button" class="e46_33">Sign Up</button> -->
+    <button id="buttonSignup" class="e46_33" onclick="submitForm()">Sign Up</button>
+</form>
+<script src="/js/signup.js"></script>
+</body>
+</html>

@@ -1,0 +1,141 @@
+body {
+	background: #e5e5e5;
+}
+.title {
+	font-weight: bold;
+	display: block;
+}
+.hAddr {
+	position: absolute;
+	left: 10px;
+	top: 10px;
+	border-radius: 2px;
+	background: #fff;
+	background: rgba(255, 255, 255, 0.8);
+	z-index: 1;
+	padding: 5px;
+}
+#centerAddr {
+	display: block;
+	margin-top: 2px;
+	font-weight: normal;
+}
+.bAddr {
+	padding: 5px;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	white-space: nowrap;
+}
+.hidden {
+	display: none;
+}
+input {
+	border: 0;
+}
+.e51_3 {
+	/* Top Section */
+	background-color: rgba(255, 255, 255, 1);
+	width: 1440px;
+	height: 1024px;
+	position: absolute;
+}
+.e51_4 {
+	/* Logo */
+	width: 247px;
+	height: 113px;
+	position: absolute;
+	left: 596px;
+	top: 58px;
+	background-image: url("moeng.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.e51_5 {
+	/* Logo */
+	width: 76px;
+	height: 42px;
+	position: absolute;
+	left: 666px;
+	top: 108px;
+	background-image: url("moeng_ko.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.e70_2 {
+	/* Right Section */
+	width: 656px;
+	height: 522px;
+	position: absolute;
+	left: 712px;
+	top: 319px;
+}
+.e51_23 {
+	/* Left Input */
+	background-color: rgba(
+			178.79323482513428,
+			210.9098106622696,
+			248.61172199249268,
+			0.5
+	);
+	width: 640px;
+	height: 105px;
+	position: absolute;
+	left: 72px;
+	top: 319px;
+}
+.e51_24 {
+	/* Left Input */
+	background-color: rgba(
+			178.79323482513428,
+			210.9098106622696,
+			248.61172199249268,
+			0.5
+	);
+	width: 640px;
+	height: 103px;
+	position: absolute;
+	left: 72px;
+	top: 424px;
+}
+.e51_25 {
+	/* Left Input */
+	background-color: rgba(
+			178.79323482513428,
+			210.9098106622696,
+			248.61172199249268,
+			0.5
+	);
+	width: 640px;
+	height: 106px;
+	position: absolute;
+	left: 72px;
+	top: 527px;
+}
+.e51_26 {
+	/* Left Input */
+	background-color: rgba(
+			178.79323482513428,
+			210.9098106622696,
+			248.61172199249268,
+			0.5
+	);
+	width: 640px;
+	height: 106px;
+	position: absolute;
+	left: 72px;
+	top: 633px;
+}
+.e51_27 {
+	/* Left Input */
+	background-color: rgba(
+			178.79323482513428,
+			210.9098106622696,
+			248.61172199249268,
+			0.5
+	);
+	width: 640px;
+	height: 102px;
+	position: absolute;
+	left: 72px;
+	top: 739px;
+}

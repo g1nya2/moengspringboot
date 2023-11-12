@@ -1,0 +1,101 @@
+* {
+	border: 0;
+}
+.e46_4 {
+	/* parent section */
+	background-color: rgba(255, 255, 255, 1);
+	width: 1440px;
+	height: 1024px;
+	position: absolute;
+}
+.e46_5 {
+	/* logo */
+	width: 157px;
+	height: 69px;
+	position: absolute;
+	left: 500px;
+	top: 340px;
+	background-image: url("moeng.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.e46_6 {
+	/* logo */
+	width: 47px;
+	height: 27px;
+	position: absolute;
+	left: 545px;
+	top: 377px;
+	background-image: url("moeng_ko.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.e46_17 {
+	/* ID */
+	background-color: rgba(
+			191.04614853858948,
+			213.68221789598465,
+			249.4617059826851,
+			0.5
+	);
+	width: 472px;
+	height: 74px;
+	position: absolute;
+	left: 484px;
+	top: 430px;
+	border-bottom: 0;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+.e46_25 {
+	/* PW */
+	background-color: rgba(
+			191.04614853858948,
+			213.68221789598465,
+			249.4617059826851,
+			0.5
+	);
+	width: 472px;
+	height: 74px;
+	position: absolute;
+	left: 484px;
+	top: 504px;
+	border-top: 0;
+	border-bottom: 0;
+}
+.e46_22 {
+	background-color: rgba(
+			191.04614853858948,
+			213.68221789598465,
+			249.4617059826851,
+			0.3
+	);
+	/* width:150px; */
+	width: 236px;
+	height: 45px;
+	position: absolute;
+	/* left:570px; */
+	left: 484px;
+	top: 578px;
+	border-bottom-left-radius: 10px;
+	border: 0;
+}
+.e46_23 {
+	background-color: rgba(
+			191.04614853858948,
+			213.68221789598465,
+			249.4617059826851,
+			0.3
+	);
+	text-align: center;
+	text-decoration: none;
+	color: black;
+	line-height: 50px;
+	/* width:150px; */
+	width: 236px;
+	height: 45px;
+	position: absolute;
+	left: 720px;
+	top: 578px;
+	border-bottom-right-radius: 10px;
+}
